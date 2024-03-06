@@ -30,6 +30,10 @@ The entry page(s) of the micro front end must be listed in the README.md page of
 
 Environment variables must be provided to micro front end using the ``Options`` pattern. The classes used to store the variables must be listed in the module's README.md. The classes must be stored in a folder named ``Options``.
 
+## Module Dependency
+
+In the module's README.md page list the other modules that the micro frontend depend on (if any).
+
 ## NuGet Packages
 
 The micro frontend must be made available via a NuGet package. NuGet packages can be publicly hosted on NuGet or privately in on-premise servers or private cloud.

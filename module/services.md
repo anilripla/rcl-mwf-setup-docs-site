@@ -26,6 +26,10 @@ Environment variables must be provided to services using the ``Options`` pattern
 
 If a service requires a subscription or uses an external product to operate, the product and a website link should be provided in the module's README.md page.
 
+## Module Dependency
+
+In the module's README.md page list the other modules that the module depend on (if any).
+
 ## Exposing the Services
 
 Services are exposed publicly using extensions and through ``Dependency Injection``. The extension must be created a folder named ``Extensions``.
