@@ -1,5 +1,5 @@
 ---
-title: Module Micro Frontend
+title: Micro Frontend
 description: A module can provide micro front end pages and components for integration into a web application
 has_children: false
 nav_order: 4

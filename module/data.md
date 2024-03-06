@@ -1,12 +1,12 @@
 ---
-title: Module Data
+title: Data
 description: A module must manage its own data
 has_children: false
 nav_order: 2
 parent: Module
 ---
 
-# Data Management
+# Data
 
 A module must manage its own data. Data can be persisted in cloud storage such as an Azure SQL Database.
 

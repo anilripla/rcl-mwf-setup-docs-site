@@ -1,12 +1,12 @@
 ---
-title: Module Service
+title: Service
 description: A module must provide public services for other  modules to communicate with it
 has_children: false
 nav_order: 3
 parent: Module
 ---
 
-# Module Service
+# Service
 
 Modules will communicates with other modules and to the web application through public services. A service is provided through and Interface and Extension so that it can be used through dependency injection.
 
